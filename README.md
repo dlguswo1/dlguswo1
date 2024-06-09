@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 
 
  ## DB
+ <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/>
+
    <br/>
    <br/>
 </div>
