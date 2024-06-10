@@ -22,30 +22,28 @@ Here are some ideas to get you started:
 
 ## Front
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badg&logo=HTML5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badg&logo=CSS3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badg&logo=JavaScript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
 
 <br>
 
 ## Back
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badg&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badg&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
 
  ## DB
- <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badg&logo=mariaDB&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"/>
 
  ## Service
- <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badg&logo=Eclipse%20IDE&logoColor=white">
- <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badg&logo=VisualStudioCode&logoColor=white">
- <img src="https://img.shields.io/badge/IntelliJ%20IDEAE-000000?style=for-the-badg&logo=EclipseIDE&logoColor=white" />
+ <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+ <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+ <img src="https://img.shields.io/badge/IntelliJ%20IDEAE-000000?style=for-the-badgd&logo=EclipseIDE&logoColor=white" />
 
  ## Other
- <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badg&logo=Amazon aws&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badg&logo=github&logoColor=white">
+ <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
    <br/>
    <br/>
