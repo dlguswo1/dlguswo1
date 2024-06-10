@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  ## Service
  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
- <img src="https://img.shields.io/badge/IntelliJ%20IDEAE-000000?style=for-the-badgd&logo=EclipseIDE&logoColor=white" />
+ <img src="https://img.shields.io/badge/IntelliJ%20IDEAE-000000?style=for-the-badge&logo=EclipseIDE&logoColor=white" />
 
  ## Other
  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
