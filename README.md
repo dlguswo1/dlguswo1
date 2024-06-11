@@ -1,4 +1,4 @@
-## Hi there Welcomne Hyun Project👋
+ ## Hi there Welcomne Hyun Project👋
 
 <!--
 **dlguswo1/dlguswo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -58,11 +58,11 @@ Here are some ideas to get you started:
 
  ## Personal Project
   <a href="https://github.com/dlguswo1/reactProject">
-   [React]https://github.com/dlguswo1/reactProject
+   [React] https://github.com/dlguswo1/reactProject
  </a>
  <br/>
  <a href="https://github.com/dlguswo1/SpringBoot">
-   [Spring]https://github.com/dlguswo1/SpringBoot
+   [Spring] https://github.com/dlguswo1/SpringBoot
  </a>
 
    <br/>
