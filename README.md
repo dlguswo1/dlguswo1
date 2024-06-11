@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
  ## Team Project
  <a href="https://github.com/JsolLee/commit">
-   커밋
+   [커밋](https://github.com/JsolLee/commit)
  </a>
 
    <br/>
