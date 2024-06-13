@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 
 <div>
-####  :clipboard: Once I've Used 
   
 
 ## Front
